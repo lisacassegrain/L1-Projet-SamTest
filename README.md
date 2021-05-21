@@ -35,12 +35,15 @@ DIFFERENTS BLOCS FONCTIONNELS DU PROJET
 
 
 Le capteur est relié à la carte Arduino par trois branchements :
+
 	Un relié à l’entrée Analog In A0
 
 	 Un relié à l’alimentation 3.3V 
 
 	 Le dernier relié au GND de l’Arduino  
+
 Le buzzer est relié à la carte Arduino par trois branchements également : 
+
 	  Un relié au GND 
 
 	 Un relié à l’alimentation 3.3V 
