@@ -2,7 +2,6 @@ BUNKER Ilan, CASSEGRAIN Lisa, DANI Thibaut
 
 SAMTEST
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.afjkd.com%2F&psig=AOvVaw1fakX8ylEewZBqOocrjHy6&ust=1621695244303000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOiy7OKD2_ACFQAAAAAdAAAAABAD![image](https://user-images.githubusercontent.com/84515836/119157156-2e7f1900-ba55-11eb-9cef-dcfed45e145d.png)
 
 OBJECTIFS DU PROJET
 
